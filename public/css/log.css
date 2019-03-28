@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+marquee{
+    font-size: 50px;
+    color: red;
+}
+/* .reg{
+    width: 80px;
+    height: 36px;
+    margin: 0 auto;
+    background: yellow;
+    color: #000;
+} */
+.wrapper{
+    width: 300px;
+    height: 220px;
+    border: 1px solid #000;
+    margin: 50px auto;
+    background: #fff;
+}
+.tab{
+    margin-top: 30px;
+    padding: 0 30px;
+}
+.tab tr{
+    padding: 20px;
+    height: 60px;
+}
+.tab tr td{
+    font-size: 20px;
+}
+.tab tr td input{
+    height: 30px;
+}
+.sub{
+    width: 100px;
+    height: 60px;
+    background: red;
+    border: 0;
+    margin-left: 15px;
+    color: #fff;
+}
